@@ -1,0 +1,33 @@
+.container{
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+   width: 100%;
+   
+}
+.formClass{
+   
+   
+
+}
+
+input{
+    width: 100%;
+   
+}
+
+.title{
+    margin-left: 3%;
+}
+
+
+#PnameValidation, #addressValidation,#mobileNoValidation,#MobtainedMarksValidation ,#IobtainedMarksValidation,#IyearValidation,#MyearValidation,#gpaValidation,#InameValidation{
+
+    color: red;
+}
+.navbar{
+    position: fixed;
+    align-items: center;
+    margin-top: 10px;
+}

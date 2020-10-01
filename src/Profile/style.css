@@ -1,0 +1,37 @@
+.heading{
+
+    background-color: rosybrown;
+    color: white;
+    font-size:46px;
+    margin-bottom: 4px;
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.otherInfo{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width:100%
+}
+                
+.info{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: teal;
+    width: 33%;
+    border: 2px solid white;
+}
+
+.profileContainer{
+
+    background-color:teal;
+}
+.edit{
+    padding: 8px;
+}
